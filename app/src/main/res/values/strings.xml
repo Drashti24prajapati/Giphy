@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Giphy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="strTrendingCat">
+        <item>Daily Hits</item>
+        <item>Holidays</item>
+        <item>Animals</item>
+        <item>Emoji</item>
+    </string-array>
+
+    <integer-array name="intMaster_id">
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="strTrendingUrl">
+        //Daily Hits
+        <item>https://media.giphy.com/media/l378BVXVPgNbTmrVC/giphy.gif</item>
+        <item>https://media.giphy.com/media/l378qgrYfpYpZnQA0/giphy.gif</item>
+        //Holidays
+        <item>https://media.giphy.com/media/lQ29criPZxL7G/giphy.gif</item>
+        <item>https://media.giphy.com/media/4ekZyc2fYt2Lu/giphy.gif</item>
+
+        //animals
+
+        <item> https://media.giphy.com/media/11bkg7uuZJRtza/giphy.gif</item>
+        <item>https://media.giphy.com/media/3ov9jTH3fayTmBgpjO/giphy.gif</item>
+        <item>https://media.giphy.com/media/5xtDarniHFmiZuCoW40/giphy.gif</item>
+
+        //Emoji
+        <item>https://media.giphy.com/media/xUA7aO2BevR1zK6fE4/giphy.gif</item>
+        <item>https://media.giphy.com/media/gFrmO3kFGWbf2/giphy.gif</item>
+        <item>https://media.giphy.com/media/t5fedHylsIRH2/giphy.gif</item>
+        <item>https://media.giphy.com/media/qcWrk9f2Ep9tu/giphy.gif</item>
+
+
+    </string-array>
+</resources>
